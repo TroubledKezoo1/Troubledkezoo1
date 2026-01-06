@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Hi there, I'm Yunus Emre SARAÇ! 👋</h1>
-  <h3>Junior Software Developer | Linux & Backend Enthusiast | 42 Kocaeli Student</h3>
+  <h3>Software Engineer | Linux Systems & Backend Architecture</h3>
   
   <p>
-    <i>"Gömülü sistemler disipliniyle yetişmiş, Linux ve Backend mimarileri üzerine uzmanlaşan bir geliştirici."</i>
+    <i>"Bridging the gap between low-level embedded logic and high-level microservice architectures."</i>
   </p>
 
   <a href="mailto:yunusemresarac@yaani.com">
@@ -16,53 +16,67 @@
 
 <br />
 
-### 👨‍💻 Hakkımda (About Me)
+### 👨‍💻 Engineering Profile
 
-Merhaba! Ben **Yunus Emre**, **42 Kocaeli**'de "Common Core" eğitimini başarıyla tamamlamış (Level 11.17) ve şu anda **Advanced** seviyede eğitimine devam eden bir yazılım geliştiricisiyim.
+I am a **Software Developer** with a rigorous background in **Embedded Systems** and **System Programming**, currently finalizing the Advanced Curriculum at **42 Kocaeli** (Level 11.17).
 
-Kariyerime gömülü sistemler ve elektronik temeliyle başladım, bu disiplini **Linux Sistem Programlama**, **Backend Geliştirme** ve **Mikroservis Mimarileri** ile birleştirdim. Karmaşık C/C++ projelerinden modern Web teknolojilerine uzanan geniş bir yelpazede, test odaklı ve yüksek performanslı çözümler üretmeyi seviyorum.
+My engineering approach is defined by deep-diving into **memory management**, **concurrency models**, and **protocol implementation**. Transitioning from manipulating registers on STM32 microcontrollers to orchestrating containerized microservices, I build scalable, secure, and performance-critical software.
 
-* 🔭 Şu an ne üzerinde çalışıyorum: **42 Advanced Curriculum & Microservices**
-* 🌱 Şu an ne öğreniyorum: **Advanced Algorithms, Cloud Architecture**
-* 🐧 İlgi alanlarım: **Linux (Ubuntu/Debian), Low-level Programming, Backend (Node.js/Fastify)**
+* 🔭 **Current Focus:** Microservice orchestration, Cloud Infrastructure, and Advanced Algorithms.
+* 🛠️ **Core Competencies:** POSIX Standards, Non-blocking I/O, Hardware-Software Integration, RESTful Architectures.
+* 🐧 **System Proficiency:** Linux Kernel Internals (Learning), Debian/Ubuntu Administration, Shell Scripting.
 
 ---
 
-### 🛠️ Yetkinlikler (Tech Stack)
+### 🛠️ Technical Arsenal
 
-**Languages**
+**System & Low-Level**
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/Assembly-A8B9CC?style=for-the-badge&logo=assembly&logoColor=black" alt="Assembly" />
 </p>
 
-**Backend & Web**
+**Backend Ecosystem**
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
 </p>
 
-**DevOps & Tools**
+**Infrastructure & Data**
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-**Databases**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 ---
-<h3 align="left">📜 Sertifikalar (Certifications)</h3>
+
+### 🎓 Education & Academic Status
+
+**42 Kocaeli** (2023 - Present)
+* **Current Level:** 11.17 (Advanced Curriculum)
+* **Common Core:** Completed (100%)
+* **Focus:** Kernel Development, Cloud Computing, Advanced Algorithms.
+
+<details>
+  <summary><b>📄 Click to view Official Transcript (Snapshot)</b></summary>
+  <br>
+  <div align="center">
+    <a href="assets/42-transcript.png" target="_blank">
+      <img src="assets/42-transcript.png" alt="42 Kocaeli Transcript" style="width: 100%; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.5);" />
+    </a>
+  </div>
+</details>
+
+---
+<h3 align="left">📜 Professional Certifications</h3>
 
 <table align="center" style="border: none;">
   <tr>
@@ -117,23 +131,35 @@ Kariyerime gömülü sistemler ve elektronik temeliyle başladım, bu disiplini 
   </tr>
 </table>
 
-### 🚀 Öne Çıkan Projeler (Featured Projects)
+---
 
-#### 🏓 **ft_transcendence (Full-Stack Web App)**
-*42 Kocaeli Final Projesi*
-* **Teknolojiler:** Docker, Fastify (Node.js), PostgreSQL, Nginx, Microservices.
-* **Detay:** Mikroservis mimarisi kullanılarak geliştirilen, JWT ve 2FA güvenliğine sahip, gerçek zamanlı Pong oyunu ve sohbet platformu.
+### 🚀 Key Projects & Implementations
 
-#### 🐚 **Minishell (System Programming)**
-* **Teknolojiler:** C, Bash, System Calls.
-* **Detay:** Kendi Bash terminalimi yazdım. `fork`, `execve`, `pipe` gibi sistem çağrılarını yöneterek süreç yönetimi (process management) sağladım.
+#### 🏓 **ft_transcendence | Microservices Architecture**
+*Full-Stack Web Application (SPA)*
+> **Tech:** Docker Compose, Fastify (Node.js), PostgreSQL, Nginx, OAuth2.
+* Architected a scalable **Microservices** solution using Docker Compose to orchestrate separate containers for Backend, Frontend, and Database.
+* Implemented robust security protocols including **JWT Authentication**, **2FA (TOTP)**, and **Refresh Token Hashing**.
+* Engineered an **Nginx Reverse Proxy** to manage load balancing and route traffic efficiently between services.
+* Integrated strict device verification logic based on **IP/User-Agent fingerprinting**.
 
-#### 🌐 **ft_irc (Network Programming)**
-* **Teknolojiler:** C++, Sockets, TCP/IP.
-* **Detay:** RFC 1459 protokolüne uygun, non-blocking I/O kullanan ve yüksek eşzamanlılık (concurrency) sağlayan gerçek bir IRC sunucusu.
+#### 🐚 **Minishell | POSIX Compliant Shell**
+*System Programming & Process Management*
+> **Tech:** C, Unix System Calls, Signal Handling.
+* Developed a fully functional custom shell, manually managing memory allocation to prevent leaks (verified with Valgrind).
+* Implemented complex process orchestration using `fork`, `execve`, `pipe`, and `dup2` to handle **pipelining** and **redirections**.
+* Handled asynchronous **Unix Signals** (SIGINT, SIGQUIT) for stable user interaction.
 
-#### 🐳 **Inception (System Admin)**
-* **Teknolojiler:** Docker Compose, MariaDB, WordPress, Nginx.
-* **Detay:** Sanal makine üzerinde Docker ile tam kapsamlı bir web altyapısı kurulumu ve yönetimi.
+#### 🌐 **ft_irc | High-Concurrency Server**
+*Network Programming (RFC 1459)*
+> **Tech:** C++, TCP/IP Sockets, I/O Multiplexing.
+* Built a multi-client IRC server utilizing **Non-blocking I/O** and **I/O Multiplexing** (`poll()` syscall) to handle multiple simultaneous connections on a single thread.
+* Parsed and processed raw byte streams to ensure full compliance with the **RFC 1459** protocol standard.
+
+#### 📡 **Embedded Communication Systems**
+*Internship Project @ GESISTEK*
+> **Tech:** C, STM32, Modbus, UART, SPI.
+* Developed optimized C libraries for **STM32** microcontrollers to handle industrial data reading via **Modbus**.
+* Implemented low-level hardware communication protocols (**SPI/UART**) and managed **EEPROM** memory operations for persistent data storage.
 
 ---
