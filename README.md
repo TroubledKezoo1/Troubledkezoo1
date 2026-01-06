@@ -58,22 +58,30 @@ My engineering approach is defined by deep-diving into **memory management**, **
 
 ---
 
-### 🎓 Education & Academic Status
+<h3 align="left">🎓 Education & Academic Status</h3>
 
-**42 Kocaeli** (2023 - Present)
-* **Current Level:** 11.17 (Advanced Curriculum)
-* **Common Core:** Completed (100%)
-* **Focus:** Kernel Development, Cloud Computing, Advanced Algorithms.
-
-<details>
-  <summary><b>📄 Click to view Official Transcript (Snapshot)</b></summary>
-  <br>
-  <div align="center">
-    <a href="assets/42-transcript.png" target="_blank">
-      <img src="assets/42-transcript.png" alt="42 Kocaeli Transcript" style="width: 100%; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.5);" />
-    </a>
-  </div>
-</details>
+<table style="border: none; width: 100%;">
+  <tr>
+    <td width="250" style="vertical-align: top; padding-right: 20px;">
+      <a href="assets/transcript.pdf" target="_blank">
+        <img src="assets/42-transcript.png" alt="42 Kocaeli Transcript" style="width: 250px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.5);" />
+        <br>
+        <div align="center"><b>📄 View Official PDF</b></div>
+      </a>
+    </td>
+    <td style="vertical-align: top;">
+      <h3>42 Kocaeli (2023 - Present)</h3>
+      <p>
+        Currently continuing the <b>Advanced Curriculum</b>.
+      </p>
+      <ul>
+        <li>🚀 <b>Current Level:</b> 11.17</li>
+        <li>✅ <b>Common Core:</b> Completed (100%)</li>
+        <li>🛠️ <b>Focus:</b> Kernel Development & Cloud Architecture</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 <h3 align="left">📜 Professional Certifications</h3>
