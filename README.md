@@ -62,16 +62,60 @@ Kariyerime gömülü sistemler ve elektronik temeliyle başladım, bu disiplini 
 </p>
 
 ---
+<h3 align="left">📜 Sertifikalar (Certifications)</h3>
 
-### 📜 Sertifikalar (Certifications)
-
-* 🏆 **HackerRank:** Problem Solving (Intermediate)
-* 🏆 **HackerRank:** REST API (Intermediate)
-* 🏆 **HackerRank:** JavaScript (Intermediate)
-* 🏆 **HackerRank:** Node.js (Basic)
-* 🏆 **HackerRank:** C# (Basic)
-
----
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.hackerrank.com/certificates/f6e23a629c11" target="_blank">
+        <img src="assets/problem-solving.png" alt="Problem Solving (Int)" style="width:100%; border-radius: 10px;" />
+        <br><b>Problem Solving (Intermediate)</b>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.hackerrank.com/certificates/fed3b5e8697b" target="_blank">
+        <img src="assets/rest-api.png" alt="Rest API (Int)" style="width:100%; border-radius: 10px;" />
+        <br><b>Rest API (Intermediate)</b>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.hackerrank.com/certificates/d0e2992c6970" target="_blank">
+        <img src="assets/javascript.png" alt="JavaScript (Int)" style="width:100%; border-radius: 10px;" />
+        <br><b>JavaScript (Intermediate)</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.hackerrank.com/certificates/d29372b6c14d" target="_blank">
+        <img src="assets/nodejs.png" alt="Node.js (Basic)" style="width:100%; border-radius: 10px;" />
+        <br><b>Node.js (Basic)</b>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.hackerrank.com/certificates/1e6cd14167a9" target="_blank">
+        <img src="assets/c-sharp.png" alt="C# (Basic)" style="width:100%; border-radius: 10px;" />
+        <br><b>C# (Basic)</b>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.hackerrank.com/certificates/5ae6ce7c51aa" target="_blank">
+        <img src="assets/sql-basic.png" alt="SQL (Basic)" style="width:100%; border-radius: 10px;" />
+        <br><b>SQL (Basic)</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.hackerrank.com/certificates/83454893df99" target="_blank">
+        <img src="assets/software-engineer.png" alt="Software Engineer" style="width:100%; border-radius: 10px;" />
+        <br><b>Software Engineer</b>
+      </a>
+    </td>
+    <td width="33%"></td>
+    <td width="33%"></td>
+  </tr>
+</table>
 
 ### 🚀 Öne Çıkan Projeler (Featured Projects)
 
@@ -93,10 +137,3 @@ Kariyerime gömülü sistemler ve elektronik temeliyle başladım, bu disiplini 
 * **Detay:** Sanal makine üzerinde Docker ile tam kapsamlı bir web altyapısı kurulumu ve yönetimi.
 
 ---
-
-### 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Troubledkezoo1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yunus Emre's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Troubledkezoo1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
